@@ -578,7 +578,7 @@
                 <li>
                   <div class="lista-ol--cuadro__vineta"><span>1</span></div>
                   <span
-                    ><b>Evaluación de rendimiento:</b> Evaluar el rendimiento de
+                    ><b>Evaluación de rendimiento:</b> evaluar el rendimiento de
                     los equipos de red existentes para determinar si es
                     necesario actualizarlos.</span
                   >
@@ -587,7 +587,7 @@
                 <li>
                   <div class="lista-ol--cuadro__vineta"><span>2</span></div>
                   <span
-                    ><b>Instalación de nuevos equipos:</b> Instalar nuevos
+                    ><b>Instalación de nuevos equipos:</b> instalar nuevos
                     <i>switches</i>, <i>routers</i> y otros equipos de red para
                     mejorar el rendimiento y la capacidad de la infraestructura
                     de red.</span

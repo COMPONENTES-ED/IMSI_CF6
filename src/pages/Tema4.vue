@@ -71,10 +71,10 @@
                 La seguridad es un aspecto en los <i>data centers</i>. Los
                 estándares de seguridad incluyen medidas físicas, como el
                 control de acceso, cámaras de vigilancia y sistemas de detección
-                de intrusos, así como medidas lógicas, como firewalls, sistemas
-                de detección de intrusos y cifrado de datos. Cumplir con estos
-                estándares de seguridad es necesario para proteger los datos y
-                los equipos almacenados en el <i>data center</i>.
+                de intrusos, así como medidas lógicas, como <em>firewalls</em>,
+                sistemas de detección de intrusos y cifrado de datos. Cumplir
+                con estos estándares de seguridad es necesario para proteger los
+                datos y los equipos almacenados en el <i>data center</i>.
               </p>
             </div>
           </AccordionRED>

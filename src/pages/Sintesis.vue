@@ -42,11 +42,11 @@
                 En el origen del diagrama se encuentran los conceptos
                 principales de red y cableado estructurado, de los cuales se
                 despliegan cuatro áreas fundamentales: materiales, subsistemas,
-                mantenimientos y data center fundamentos, importación de datos,
-                técnicas de transformación, herramientas y mejores prácticas.
-                Cada una de estas áreas se desglosa en subtemas clave,
-                reflejando la estructura y el contenido del componente, desde
-                los conceptos básicos hasta las aplicaciones prácticas y
+                mantenimientos y <em>data center</em> fundamentos, importación
+                de datos, técnicas de transformación, herramientas y mejores
+                prácticas. Cada una de estas áreas se desglosa en subtemas
+                clave, reflejando la estructura y el contenido del componente,
+                desde los conceptos básicos hasta las aplicaciones prácticas y
                 tendencias actuales.
               </p>
             </div>
@@ -62,15 +62,13 @@
         importancia y el papel de cada componente en la infraestructura de red.
       </p>
       <div class="row justify-content-center">
-        <div class="col-lg-10 mb-5 bgs p-4 brad">
-          <figure>
-            <img
-              class="img-a img-t"
-              src="@/assets/curso/temas/sintesis.svg"
-              alt="La imagen muestra la «Síntesis temática del componente», en ella se mencionan los principales temas tratados sobre la implementación del cableado estructurado- sus herramientas, sistemas, mantenimiento y fundamentos; junto a los subtemas que lo complementan."
-            />
-          </figure>
-        </div>
+        <figure class="mb-5">
+          <img
+            class="img-a img-t"
+            src="@/assets/curso/temas/sintesis.svg"
+            alt="La imagen muestra la «Síntesis temática del componente», en ella se mencionan los principales temas tratados sobre la implementación del cableado estructurado- sus herramientas, sistemas, mantenimiento y fundamentos; junto a los subtemas que lo complementan."
+          />
+        </figure>
         <div class="col-auto">
           <a
             class="anexo mb-5"

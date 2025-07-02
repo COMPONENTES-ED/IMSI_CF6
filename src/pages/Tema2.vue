@@ -244,7 +244,7 @@
               </div>
             </div>
             <div class="list__txt bgicon text-white p-0 px-4">
-              <h3 class="mb-1">Área de trabajo y cuartos técnicos</h3>
+              <h3 class="mb-1">Componentes de las áreas de trabajo</h3>
             </div>
           </div>
         </div>
