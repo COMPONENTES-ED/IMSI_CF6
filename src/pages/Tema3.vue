@@ -500,9 +500,9 @@
                 alt=""
               />
               <p class="mb-0">
-                <b>Reparación:Instalación:</b> instalar nuevos cables y
-                conectores para proporcionar puntos de conexión adicionales en
-                las áreas de trabajo.
+                <b>Instalación:</b> instalar nuevos cables y conectores para
+                proporcionar puntos de conexión adicionales en las áreas de
+                trabajo.
               </p>
             </div>
           </div>

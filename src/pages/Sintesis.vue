@@ -64,7 +64,7 @@
       <div class="row justify-content-center">
         <figure class="mb-5">
           <img
-            class="img-a img-t"
+            class=""
             src="@/assets/curso/temas/sintesis.svg"
             alt="La imagen muestra la «Síntesis temática del componente», en ella se mencionan los principales temas tratados sobre la implementación del cableado estructurado- sus herramientas, sistemas, mantenimiento y fundamentos; junto a los subtemas que lo complementan."
           />

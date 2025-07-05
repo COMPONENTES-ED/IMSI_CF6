@@ -21,16 +21,15 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba de conocimientos sobre Implementación del cable
-              estructurado
+              Prueba de conocimientos sobre Construyendo la red: implementación
+              de cableado estructurado
             </h2>
           </div>
           <p class="mb-4">
-            Validar el conocimiento adquirido sobre la Implementación del
-            cableado estructurado, las herramientas y mantenimiento. Esto se
-            trabaja a partir de un conjunto de preguntas, con el propósito de
-            buscar una dinámica de evaluar el aprendizaje desarrollado durante
-            el componente.
+            Validar el conocimiento adquirido sobre la Construyendo la red:
+            implementación de cableado estructurado. Esto se trabaja a partir de
+            un conjunto de preguntas, con el propósito de buscar una dinámica de
+            evaluar el aprendizaje desarrollado durante el componente.
           </p>
           <div class="tarjeta actividad p-3">
             <div class="row justify-content-around align-items-center">
